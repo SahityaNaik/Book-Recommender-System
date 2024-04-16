@@ -12,11 +12,6 @@ The aim is to create a user-friendly platform that assists readers in discoverin
 3.Users.csv
 
 
-# Contact
-
-sahityanaik03@gmail.com
-
-
 # Acknowledgement
 
 I am gratefull for the guidance and clear explanation from @campusx-official youtube channel while creating this project.
